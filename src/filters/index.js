@@ -7,6 +7,7 @@ export {default as sepia} from './adjust/sepia'
 export {default as unsharpMask} from './adjust/unsharpmask'
 export {default as vibrance} from './adjust/vibrance'
 export {default as vignette} from './adjust/vignette'
+export {default as temperature} from './adjust/temperature'
 
 export {default as lensBlur} from './blur/lensblur'
 export {default as tiltShift} from './blur/tiltshift'

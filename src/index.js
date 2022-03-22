@@ -153,6 +153,7 @@ export default {
     
     // // Filter methods
     canvas.brightnessContrast = wrap(filters.brightnessContrast);
+    canvas.temperature = wrap(filters.temperature);
     canvas.hexagonalPixelate = wrap(filters.hexagonalPixelate);
     canvas.hueSaturation = wrap(filters.hueSaturation);
     canvas.colorHalftone = wrap(filters.colorHalftone);
